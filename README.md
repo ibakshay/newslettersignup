@@ -1,3 +1,3 @@
 # newslettersignup
 
-Testing with cla-assistant
+Testing with cla-assistant update Jun 07
